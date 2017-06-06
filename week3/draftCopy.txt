@@ -1,0 +1,22 @@
+HomePage --
+    The homepage will welcome the visitor by showing off an image of a calisthenic exercise. It will provide a
+    small introduction to the site giving a short summary of where to find Exercises, Tutorials, and a Contact
+    and suggestion page.
+
+
+Page 1 -- Exercises:
+    Exercises will be broken up into three groups and have a description provided:
+        Push exercises--Pushups, dips, handstand etc.
+        Pull exercises--Pullups, rows, Muscleups etc.
+        Leg exercises--Jumps, squats, deadlifts etc.
+
+
+
+Page 2 -- Tutorials for Exercises
+    Tutorials will be broken up into the same groups as the Exercises except with a more indepth discussion on
+     how to perform the exercise.
+
+
+Page 3 -- Contact/Suggestion
+    There will be an email, comment box, and link to social media for users to have access to ask questions or request
+    more exercises or tutorials.
