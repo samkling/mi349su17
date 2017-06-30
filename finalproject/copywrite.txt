@@ -1,0 +1,9 @@
+HomePage --
+    The homepage will welcome the visitor by showing off an image of a calisthenic exercise. It will provide a small introduction to the site giving a short summary of where to find Exercises, Tutorials, and a Contact and suggestion page.
+
+Page 1 -- Exercises:
+    This page describes the steps to complete the in to out pullup. It contains images and video of the exercise being demonstrated.
+
+
+Page 2 -- Contact/Suggestion
+    This page provides a means of contact for the visitor to give their email and a message to the site owner.
